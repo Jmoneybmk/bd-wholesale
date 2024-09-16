@@ -18,7 +18,7 @@ players to feel more involved in the servers economic development.
 Make sure to access the config.lua file to make the changes needed to better match your server.
 
 ## Contributing
-No contribution allowed unless permitted by Big Domo.
+By all means just give credit.
 
 ## License
 
