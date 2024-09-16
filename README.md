@@ -17,8 +17,11 @@ players to feel more involved in the servers economic development.
 ## Usage
 Make sure to access the config.lua file to make the changes needed to better match your server.
 
-## Contributing
-By all means just give credit.
+## Dependencies
+ox_lib
+qb-target
+oxmysql
+qb-core
 
 ## License
 
